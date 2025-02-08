@@ -72,10 +72,14 @@ Welcome to my personal portfolio! This portfolio showcases my skills, projects, 
   "react-dom": "^19.0.0",                           # ReactDOM for rendering components
   "react-icons": "^5.4.0",                          # React icons library
   "react-router-dom": "^7.1.1",                     # React Router for navigation
-  "tailwindcss": "^3.0.0",                          # Tailwind CSS for styling
   "axios": "^1.7.9",                                # HTTP client for API calls
   "react-toastify": "^11.0.2",                      # Toast notifications
+  "react-router-dom": "^7.1.1",                     # Detects when elements enter or leave the viewport.
   "lottie-react": "^2.4.1"                          # Lottie animations for UI
+  "swiper": "^11.1.15",                             # Swiper.js for carousels
+  "tailwindcss": "^3.0.0",                          # Tailwind CSS for styling
+  "tailwind-scrollbar": "^3.1.0",                   # Custom scrollbar styling
+  "tailwind-scrollbar-hide": "^2.0.0"               # Hides scrollbars
 }
 ```
 
@@ -135,4 +139,4 @@ Welcome to my personal portfolio! This portfolio showcases my skills, projects, 
 This portfolio is a reflection of my skills, creativity, and passion for building meaningful projects. It is designed to provide a seamless and engaging experience for anyone who visits. Feel free to explore, connect, or reach out to me for collaborations or opportunities.
 
 
-🔗 **Live Demo:** [Coming Soon]
+🔗 **My Porfolio:** [Coming Soon]
