@@ -85,6 +85,7 @@ Welcome to my personal portfolio! This portfolio showcases my skills, projects, 
   "express": "^4.21.2",                # Express.js framework
   "cors": "^2.8.5",                    # Enables CORS policy 
   "dotenv": "^16.4.7",                 # Loads environment variables
+  "mongoose": "^8.9.5",                # MongoDB ORM for Node.js 
   "multer": "^1.4.4",                  # Middleware for file uploads
   "nodemailer": "^6.9.1"               # For sending emails from the contact form
 }
