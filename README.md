@@ -28,7 +28,8 @@ Welcome to my personal portfolio! This portfolio showcases my skills, projects, 
 ## 📁 Project Structure
 
 ### Frontend
-├── public/
+```
+  ├── public/
   │   ├── index.html              # Main HTML file
   │   └── logo.png                # Logo image 
   ├── src/
@@ -51,18 +52,21 @@ Welcome to my personal portfolio! This portfolio showcases my skills, projects, 
   ├── package.json
   ├── postcss.config.js
   └── tailwind.config.js
+```
 
 ### Backend
+```
 ├── uploads/                      # Directory for uploaded files
 ├── index.js                      # Backend entry point for handling contact form submissions
 ├── package-lock.json 
 └── package.json
-
+```
 ---
 
 ## 📦 Dependencies
 
 ### Frontend
+```
 "dependencies": {
   "react": "^19.0.0",                               # React framework
   "react-dom": "^19.0.0",                           # ReactDOM for rendering components
@@ -73,8 +77,10 @@ Welcome to my personal portfolio! This portfolio showcases my skills, projects, 
   "react-toastify": "^11.0.2",                      # Toast notifications
   "lottie-react": "^2.4.1"                          # Lottie animations for UI
 }
+```
 
 ### Backend
+```
 "dependencies": {
   "express": "^4.21.2",                # Express.js framework
   "cors": "^2.8.5",                    # Enables CORS policy 
@@ -82,7 +88,7 @@ Welcome to my personal portfolio! This portfolio showcases my skills, projects, 
   "multer": "^1.4.4",                  # Middleware for file uploads
   "nodemailer": "^6.9.1"               # For sending emails from the contact form
 }
-
+```
 ---
 
 ## 🎯 Features
